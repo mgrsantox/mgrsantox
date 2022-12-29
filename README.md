@@ -3,10 +3,12 @@
 **I am a Software Developer from Kathmandu. Welcome to my profile.
 I am an avid learner and am taking the next step by implementing my learnings.**
 
-![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
+![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/green?icon=github)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mgrsantox)
-
+<div align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mgrsantox&show_icons=true&count_private=true&theme=highcontrast&bg_color=120,222222,444444&title_color=eee&text_color=eee&line_height=20&custom_title=GitHub%20Stats&hide_border=true&border_radius=5&include_all_commits=true&hide_title=true" />
+</div>
+<br/>
 
 **Languages**
 
